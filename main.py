@@ -19,7 +19,7 @@ df['SentID'] = df['SentID'].ffill()  # Forward fill sentence IDs for grouping
 CONLLU_COLUMNS = ["ID", "FORM", "LEMMA", "UPOS", "XPOS", "FEATS", "HEAD", "DEPREL", "DEPS", "MISC"]
 
 # Morphological features to compile into FEATS
-morph_feats = ["Case", "Number", "Gender", "Tense", "Person", "VerbForm", "Mood", "ExtPos"]
+morph_feats = ["Case", "Number", "Gender", "Tense", "Person", "VerbForm", "Mood", "ExtPos", "Degree"]
 
 def int_wrapper(a):
     if type(a) == float:
