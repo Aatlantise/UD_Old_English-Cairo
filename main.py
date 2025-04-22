@@ -70,6 +70,6 @@ for sent_id, sent_df in df.groupby('SentID'):
     conllu_output.append("")  # Empty line between sentences
 
 # Save to file
-conllu_path = "output.conllu"
+conllu_path = "ang_Cairo-ud-test.conllu"
 with open(conllu_path, "w", encoding="utf-8") as f:
     f.write("\n".join(conllu_output))
