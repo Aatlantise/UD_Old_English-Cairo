@@ -75,7 +75,7 @@ SentID,ID,FORM,LEMMA,UPOS,XPOS,HEAD,DEPREL,Case,Number,Gender,Tense,Person,VerbF
 ,3,ær,ær,NOUN,NN,2,obj,Acc,Sing,Neut,,,,,,,bronze,ore,*h₂ey,,,,,,,,,,,,,,
 ,4,",",",",PUNCT,",",5,punct,,,,,,,,,,",",",",_,,,,,,,,,,,,,,
 ,5,Petrus,Petrus,PROPN,NNP,2,conj,Nom,Sing,Masc,,,,,,,Petrus,Petrus,_,,,,,,,,,,,,,,
-,6,"seolfor,",seolfor,NOUN,NN,5,orphan,Acc,Sing,Neut,,,,,,,silver,silver,*silubr,,,,,,,,,,,,,,
+,6,seolfor,seolfor,NOUN,NN,5,orphan,Acc,Sing,Neut,,,,,,,silver,silver,*silubr,,,,,,,,,,,,,,
 ,7,and,and,CCONJ,CC,8,cc,,,,,,,,,,and,and,*h₂énti,,,,,,,,,,,,,,
 ,8,Iohanna,Iohanna,PROPN,NNP,2,conj,Nom,Sing,Fem,,,,,,,Iohanna,Iohanna,_,,,,,,,,,,,,,,
 ,9,gold,gold,NOUN,NN,8,orphan,Acc,Sing,Neut,,,,,,,gold,gold,*ǵʰĺ̥tom,,,,,,,,,,,,,,

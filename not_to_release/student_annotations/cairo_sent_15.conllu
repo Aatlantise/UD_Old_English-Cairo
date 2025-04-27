@@ -1,0 +1,52 @@
+# sent_id = 1
+# cairo_sent_id = 15
+# text = He bohte cræt ac his broþor hƿeol-bearƿe .
+# annotator = experienced_e
+1	He	_	_	_	_	2	nsubj	_	_
+2	bohte	_	_	_	_	0	root	_	_
+3	cræt	_	_	_	_	2	obj	_	_
+4	ac	_	_	_	_	6	cc	_	_
+5	his	_	_	_	_	6	nmod:poss	_	_
+6	broþor	_	_	_	_	2	conj	_	_
+7	hƿeol-bearƿe	_	_	_	_	6	orphan	_	_
+8	.	_	_	_	_	2	punct	_	_
+
+# sent_id = 2
+# cairo_sent_id = 15
+# text = He bohte cræt ac his broþor hƿeol-bearƿe .
+# annotator = experienced_f
+1	He	_	_	_	_	2	nsubj	_	_
+2	bohte	_	_	_	_	0	root	_	_
+3	cræt	_	_	_	_	2	obj	_	_
+4	ac	_	_	_	_	2	cc	_	_
+5	his	_	_	_	_	6	nmod:poss	_	_
+6	broþor	_	_	_	_	2	conj	_	_
+7	hƿeol-bearƿe	_	_	_	_	6	orphan	_	_
+8	.	_	_	_	_	2	punct	_	_
+
+# sent_id = 3
+# cairo_sent_id = 15
+# text = He bohte cræt ac his broþor hƿeol-bearƿe .
+# annotator = novice_a
+1	He	_	_	_	_	2	nsubj	_	_
+2	bohte	_	_	_	_	0	root	_	_
+3	cræt	_	_	_	_	2	obj	_	_
+4	ac	_	_	_	_	6	cc	_	_
+5	his	_	_	_	_	6	nmod:poss	_	_
+6	broþor	_	_	_	_	2	conj	_	_
+7	hƿeol-bearƿe	_	_	_	_	6	orphan	_	_
+8	.	_	_	_	_	2	punct	_	_
+
+# sent_id = 4
+# cairo_sent_id = 15
+# text = He bohte cræt ac his broþor hƿeol-bearƿe .
+# annotator = novice_f
+1	He	_	_	_	_	2	nsubj	_	_
+2	bohte	_	_	_	_	0	root	_	_
+3	cræt	_	_	_	_	2	obj	_	_
+4	ac	_	_	_	_	7	cc	_	_
+5	his	_	_	_	_	6	det	_	_
+6	broþor	_	_	_	_	7	nsubj	_	_
+7	hƿeol-bearƿe	_	_	_	_	2	conj	_	_
+8	.	_	_	_	_	2	punct	_	_
+

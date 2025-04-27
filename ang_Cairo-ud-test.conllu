@@ -88,13 +88,13 @@
 7	.	.	PUNCT	.	_	4	punct	_	Gloss=.|Hyperlemma=.|Root=_
 
 # sent_id = 9
-# text = Maria ȝeƿann ær , Petrus seolfor, and Iohanna gold .
+# text = Maria ȝeƿann ær , Petrus seolfor and Iohanna gold .
 1	Maria	Maria	PROPN	NNP	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	Gloss=Maria|Hyperlemma=Maria|Root=_
 2	ȝeƿann	ȝeƿinnan	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=won|Hyperlemma=ȝeƿinnan|Root=*gʷʰen
 3	ær	ær	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	Gloss=bronze|Hyperlemma=ore|Root=*h₂ey
 4	,	,	PUNCT	,	_	5	punct	_	Gloss=,|Hyperlemma=,|Root=_
 5	Petrus	Petrus	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	Gloss=Petrus|Hyperlemma=Petrus|Root=_
-6	seolfor,	seolfor	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	5	orphan	_	Gloss=silver|Hyperlemma=silver|Root=*silubr
+6	seolfor	seolfor	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	5	orphan	_	Gloss=silver|Hyperlemma=silver|Root=*silubr
 7	and	and	CCONJ	CC	_	8	cc	_	Gloss=and|Hyperlemma=and|Root=*h₂énti
 8	Iohanna	Iohanna	PROPN	NNP	Case=Nom|Gender=Fem|Number=Sing	2	conj	_	Gloss=Iohanna|Hyperlemma=Iohanna|Root=_
 9	gold	gold	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	8	orphan	_	Gloss=gold|Hyperlemma=gold|Root=*ǵʰĺ̥tom
