@@ -12,7 +12,7 @@ relevant to its historicity like hyperlemma, Indo-European root, and gloss.
 # Acknowledgments
 
 We would like to thank the students in the course
-ANONYMOUS at ANONYMOUS University for participating
+Corpus Approaches to Historical Linguistics at Georgetown University for participating
 in the course and the creation of the
 dataset. The final public repository will include
 all annotation versions of all students who agreed

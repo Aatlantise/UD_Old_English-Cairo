@@ -1,13 +1,3 @@
-# sent_id = 0
-# text = Ic ƿrat þis fers to bisene .
-1	Ic	ic	PRON	PRP	Case=Nom|Number=Sing|Person=1	2	nsubj	_	Gloss=I|Hyperlemma=I|Root=*eǵh₂
-2	ƿrat	ƿritan	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	Gloss=wrote|Hyperlemma=write|Root=*wrey
-3	þis	þis	DET	DT	Case=Acc|Gender=Neut|Number=Sing	4	det	_	Gloss=this|Hyperlemma=this|Root=*so
-4	fers	fers	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	Gloss=verse|Hyperlemma=verse|Root=*wert
-5	to	to	ADP	IN	_	6	case	_	Gloss=as|Hyperlemma=to|Root=*de
-6	bisene	bisen	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	2	obl	_	Gloss=example|Hyperlemma=bisen|Root=*bʰeudʰ
-7	.	.	PUNCT	.	_	2	punct	_	Gloss=.|Hyperlemma=.|Root=_
-
 # sent_id = 1
 # text = Þæt mæden ƿrat hyre freonde ærend-ƿrit .
 1	Þæt	se	DET	DT	Case=Nom|Gender=Neut|Number=Sing	2	det	_	Gloss=the|Hyperlemma=the|Root=*so
