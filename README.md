@@ -14,16 +14,31 @@ relevant to its historicity like hyperlemma, Indo-European root, and gloss.
 We would like to thank the students in the course
 Corpus Approaches to Historical Linguistics at Georgetown University for participating
 in the course and the creation of the
-dataset. The final public repository will include
-all annotation versions of all students who agreed
-to release their work and signed an open license
-agreement. Credit is given by name to all students
-who wished to be named, as well as anonymously
-to students who wish to remain anonymous.
+dataset:
+
+Abdullah Alasman, Cynthia Li, Dan DeGenaro, Devika Tiwari, Eamon Maloney, Elli Ahn, Erin Tirpak, Junghyun Min,
+Kate Whipple, Lauren Levine,
+Nola Goodwin, Wesley Scivetti, Wyatt Roder
+
+... and other annotators who wish to remain anonymous.
 
 ## References
 
-* (citation)
+Please refer to the following article for more information on the dataset and its creation, or for citation purposes.
+
+[Lauren Levine, Junghyun Min, and Amir Zeldes (2025). Building UD Cairo for Old English in the Classroom.](https://arxiv.org/abs/2504.18718)
+
+```
+@misc{levine2025building,
+      title={Building UD Cairo for Old English in the Classroom}, 
+      author={Lauren Levine and Junghyun Min and Amir Zeldes},
+      year={2025},
+      eprint={2504.18718},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2504.18718}, 
+}
+```
 
 
 # Changelog
