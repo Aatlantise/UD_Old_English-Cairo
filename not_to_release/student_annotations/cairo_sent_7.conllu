@@ -1,0 +1,39 @@
+# sent_id = 1
+# cairo_sent_id = 7
+# text = Peteres neah-ȝebur hæfð þone eodor readne onȝemet .
+# annotator = experienced_b
+1	Peteres	_	_	_	_	7	nsubj	_	_
+2	neah-ȝebur	_	_	_	_	1	nmod:poss	_	_
+3	hæfð	_	_	_	_	7	aux	_	_
+4	þone	_	_	_	_	5	det	_	_
+5	eodor	_	_	_	_	7	obj	_	_
+6	readne	_	_	_	_	7	advmod	_	_
+7	onȝemet	_	_	_	_	0	root	_	_
+8	.	_	_	_	_	7	punct	_	_
+
+# sent_id = 2
+# cairo_sent_id = 7
+# text = Peteres neah-ȝebur hæfð þone eodor readne onȝemet .
+# annotator = experienced_d
+1	Peteres	_	_	_	_	2	nmod	_	_
+2	neah-ȝebur	_	_	_	_	7	nsubj	_	_
+3	hæfð	_	_	_	_	7	aux	_	_
+4	þone	_	_	_	_	5	det	_	_
+5	eodor	_	_	_	_	7	obj	_	_
+6	readne	_	_	_	_	7	advmod	_	_
+7	onȝemet	_	_	_	_	0	root	_	_
+8	.	_	_	_	_	7	punct	_	_
+
+# sent_id = 3
+# cairo_sent_id = 7
+# text = Peteres neah-ȝebur hæfð þone eodor readne onȝemet .
+# annotator = novice_a
+1	Peteres	_	_	_	_	2	nmod:poss	_	_
+2	neah-ȝebur	_	_	_	_	3	nsubj	_	_
+3	hæfð	_	_	_	_	0	root	_	_
+4	þone	_	_	_	_	5	det	_	_
+5	eodor	_	_	_	_	3	obj	_	_
+6	readne	_	_	_	_	5	amod	_	_
+7	onȝemet	_	_	_	_	3	advmod	_	_
+8	.	_	_	_	_	3	punct	_	_
+

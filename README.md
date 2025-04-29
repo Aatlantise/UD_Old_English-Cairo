@@ -1,20 +1,44 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
+Old English [Cairo](https://github.com/UniversalDependencies/cairo) sentences with UD and additional annotations
 
 
 # Introduction
 
-...
+Old English [Cairo](https://github.com/UniversalDependencies/cairo) sentences with UD and additional annotations
+relevant to its historicity like hyperlemma, Indo-European root, and gloss.
 
 
 # Acknowledgments
 
-...
+We would like to thank the students in the course
+Corpus Approaches to Historical Linguistics at Georgetown University for participating
+in the course and the creation of the
+dataset:
+
+Abdullah Alasman, Cynthia Li, Dan DeGenaro, Devika Tiwari, Eamon Maloney, Elli Ahn, Erin Tirpak, Junghyun Min,
+Kate Whipple, Lauren Levine,
+Nola Goodwin, Wesley Scivetti, Wyatt Roder
+
+... and other annotators who wish to remain anonymous.
 
 ## References
 
-* (citation)
+Please refer to the following article for more information on the dataset and its creation, or for citation purposes.
+
+[Lauren Levine, Junghyun Min, and Amir Zeldes (2025). Building UD Cairo for Old English in the Classroom.](https://arxiv.org/abs/2504.18718)
+
+```
+@misc{levine2025building,
+      title={Building UD Cairo for Old English in the Classroom}, 
+      author={Lauren Levine and Junghyun Min and Amir Zeldes},
+      year={2025},
+      eprint={2504.18718},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2504.18718}, 
+}
+```
 
 
 # Changelog
@@ -31,10 +55,10 @@ Includes text: yes
 Genre: grammar-examples
 Lemmas: manual native
 UPOS: manual native
-XPOS: not available
+XPOS: manual native
 Features: manual native
 Relations: manual native
-Contributors: Zeldes, Amir
+Contributors: Levine, Lauren; Min, Junghyun; Zeldes, Amir
 Contributing: here
 Contact: amir.zeldes@georgetown.edu
 ===============================================================================

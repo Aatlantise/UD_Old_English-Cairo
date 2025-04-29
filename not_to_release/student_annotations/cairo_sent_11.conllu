@@ -1,0 +1,45 @@
+# sent_id = 1
+# cairo_sent_id = 11
+# text = Ne Petrus Smiþ ne Maria Brun mihton beon ȝecorene .
+# annotator = novice_c
+1	Ne	_	_	_	_	2	cc:preconj	_	_
+2	Petrus	_	_	_	_	9	nsubj	_	_
+3	Smiþ	_	_	_	_	2	flat	_	_
+4	ne	_	_	_	_	5	cc	_	_
+5	Maria	_	_	_	_	2	conj	_	_
+6	Brun	_	_	_	_	5	flat	_	_
+7	mihton	_	_	_	_	9	aux	_	_
+8	beon	_	_	_	_	9	aux:pass	_	_
+9	ȝecorene	_	_	_	_	0	root	_	_
+10	.	_	_	_	_	9	punct	_	_
+
+# sent_id = 2
+# cairo_sent_id = 11
+# text = Ne Petrus Smiþ ne Maria Brun mihton beon ȝecorene .
+# annotator = novice_f
+1	Ne	_	_	_	_	2	cc:preconj	_	_
+2	Petrus	_	_	_	_	9	nsubj:pass	_	_
+3	Smiþ	_	_	_	_	2	flat	_	_
+4	ne	_	_	_	_	5	cc	_	_
+5	Maria	_	_	_	_	2	conj	_	_
+6	Brun	_	_	_	_	5	flat	_	_
+7	mihton	_	_	_	_	9	aux	_	_
+8	beon	_	_	_	_	7	aux:pass	_	_
+9	ȝecorene	_	_	_	_	0	root	_	_
+10	.	_	_	_	_	9	punct	_	_
+
+# sent_id = 3
+# cairo_sent_id = 11
+# text = Ne Petrus Smiþ ne Maria Brun mihton beon ȝecorene .
+# annotator = novice_h
+1	Ne	_	_	_	_	2	cc:preconj	_	_
+2	Petrus	_	_	_	_	9	nsubj:pass	_	_
+3	Smiþ	_	_	_	_	2	flat	_	_
+4	ne	_	_	_	_	5	cc	_	_
+5	Maria	_	_	_	_	2	conj	_	_
+6	Brun	_	_	_	_	5	flat	_	_
+7	mihton	_	_	_	_	9	aux	_	_
+8	beon	_	_	_	_	9	aux:pass	_	_
+9	ȝecorene	_	_	_	_	0	root	_	_
+10	.	_	_	_	_	9	punct	_	_
+
