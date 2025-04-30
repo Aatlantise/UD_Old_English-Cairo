@@ -1,7 +1,7 @@
 # newdoc id = cairo_sent_12
 # sent_id = 1
 # cairo_sent_id = 12
-# text = Hie nabbaþ nanne ȝeþoht hƿa hit ƿrat .
+# text = Hie nabbaþ nanne ȝeþoht hƿa hit ƿrat.
 # annotator = experienced_a
 1	Hie	_	_	_	_	2	nsubj	_	_
 2	nabbaþ	_	_	_	_	0	root	_	_
@@ -14,7 +14,7 @@
 
 # sent_id = 2
 # cairo_sent_id = 12
-# text = Hie nabbaþ nanne ȝeþoht hƿa hit ƿrat .
+# text = Hie nabbaþ nanne ȝeþoht hƿa hit ƿrat.
 # annotator = experienced_b
 1	Hie	_	_	_	_	2	nsubj	_	_
 2	nabbaþ	_	_	_	_	0	root	_	_
@@ -27,7 +27,7 @@
 
 # sent_id = 3
 # cairo_sent_id = 12
-# text = Hie nabbaþ nanne ȝeþoht hƿa hit ƿrat .
+# text = Hie nabbaþ nanne ȝeþoht hƿa hit ƿrat.
 # annotator = experienced_c
 1	Hie	_	_	_	_	2	nsubj	_	_
 2	nabbaþ	_	_	_	_	0	root	_	_

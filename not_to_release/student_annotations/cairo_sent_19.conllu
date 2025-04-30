@@ -1,7 +1,7 @@
 # newdoc id = cairo_sent_19
 # sent_id = 1
 # cairo_sent_id = 19
-# text = Þis ærend-ƿrit is fram Petere and hit ƿæs ȝebroht ȝierstan-dæg .
+# text = Þis ærend-ƿrit is fram Petere and hit ƿæs ȝebroht ȝierstan-dæg.
 # annotator = novice_b
 1	Þis	_	_	_	_	2	det	_	_
 2	ærend-ƿrit	_	_	_	_	5	nsubj	_	_
@@ -17,7 +17,7 @@
 
 # sent_id = 2
 # cairo_sent_id = 19
-# text = Þis ærend-ƿrit is fram Petere and hit ƿæs ȝebroht ȝierstan-dæg .
+# text = Þis ærend-ƿrit is fram Petere and hit ƿæs ȝebroht ȝierstan-dæg.
 # annotator = novice_i
 1	Þis	_	_	_	_	2	det	_	_
 2	ærend-ƿrit	_	_	_	_	5	nsubj	_	_

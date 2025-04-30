@@ -1,7 +1,7 @@
 # newdoc id = cairo_sent_13
 # sent_id = 1
 # cairo_sent_id = 13
-# text = Hƿæt locast þu on ?
+# text = Hƿæt locast þu on?
 # annotator = experienced_b
 1	Hƿæt	_	_	_	_	2	obj	_	_
 2	locast	_	_	_	_	0	root	_	_
@@ -11,7 +11,7 @@
 
 # sent_id = 2
 # cairo_sent_id = 13
-# text = Hƿæt locast þu on ?
+# text = Hƿæt locast þu on?
 # annotator = experienced_e
 1	Hƿæt	_	_	_	_	2	obl	_	_
 2	locast	_	_	_	_	0	root	_	_
@@ -21,7 +21,7 @@
 
 # sent_id = 3
 # cairo_sent_id = 13
-# text = Hƿæt locast þu on ?
+# text = Hƿæt locast þu on?
 # annotator = novice_d
 1	Hƿæt	_	_	_	_	2	obj	_	_
 2	locast	_	_	_	_	0	root	_	_
@@ -31,7 +31,7 @@
 
 # sent_id = 4
 # cairo_sent_id = 13
-# text = Hƿæt locast þu on ?
+# text = Hƿæt locast þu on?
 # annotator = novice_e
 1	Hƿæt	_	_	_	_	2	obl	_	_
 2	locast	_	_	_	_	0	root	_	_

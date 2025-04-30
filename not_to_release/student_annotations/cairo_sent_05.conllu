@@ -1,7 +1,7 @@
 # newdoc id = cairo_sent_05
 # sent_id = 1
 # cairo_sent_id = 5
-# text = Sam , ontyne þæt eagþyrel !
+# text = Sam, ontyne þæt eagþyrel!
 # annotator = experienced_a
 1	Sam	_	_	_	_	3	vocative	_	_
 2	,	_	_	_	_	3	punct	_	_
@@ -12,7 +12,7 @@
 
 # sent_id = 2
 # cairo_sent_id = 5
-# text = Sam , ontyne þæt eagþyrel !
+# text = Sam, ontyne þæt eagþyrel!
 # annotator = experienced_f
 1	Sam	_	_	_	_	3	vocative	_	_
 2	,	_	_	_	_	3	punct	_	_
@@ -23,7 +23,7 @@
 
 # sent_id = 3
 # cairo_sent_id = 5
-# text = Sam , ontyne þæt eagþyrel !
+# text = Sam, ontyne þæt eagþyrel!
 # annotator = novice_a
 1	Sam	_	_	_	_	3	vocative	_	_
 2	,	_	_	_	_	3	punct	_	_
@@ -34,7 +34,7 @@
 
 # sent_id = 4
 # cairo_sent_id = 5
-# text = Sam , ontyne þæt eagþyrel !
+# text = Sam, ontyne þæt eagþyrel!
 # annotator = novice_f
 1	Sam	_	_	_	_	3	nsubj	_	_
 2	,	_	_	_	_	3	punct	_	_

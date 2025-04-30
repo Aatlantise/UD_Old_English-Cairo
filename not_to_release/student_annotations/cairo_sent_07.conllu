@@ -1,7 +1,7 @@
 # newdoc id = cairo_sent_07
 # sent_id = 1
 # cairo_sent_id = 7
-# text = Peteres neah-ȝebur hæfð þone eodor readne onȝemet .
+# text = Peteres neah-ȝebur hæfð þone eodor readne onȝemet.
 # annotator = experienced_b
 1	Peteres	_	_	_	_	7	nsubj	_	_
 2	neah-ȝebur	_	_	_	_	1	nmod:poss	_	_
@@ -14,7 +14,7 @@
 
 # sent_id = 2
 # cairo_sent_id = 7
-# text = Peteres neah-ȝebur hæfð þone eodor readne onȝemet .
+# text = Peteres neah-ȝebur hæfð þone eodor readne onȝemet.
 # annotator = experienced_d
 1	Peteres	_	_	_	_	2	nmod	_	_
 2	neah-ȝebur	_	_	_	_	7	nsubj	_	_
@@ -27,7 +27,7 @@
 
 # sent_id = 3
 # cairo_sent_id = 7
-# text = Peteres neah-ȝebur hæfð þone eodor readne onȝemet .
+# text = Peteres neah-ȝebur hæfð þone eodor readne onȝemet.
 # annotator = novice_a
 1	Peteres	_	_	_	_	2	nmod:poss	_	_
 2	neah-ȝebur	_	_	_	_	3	nsubj	_	_

@@ -1,7 +1,7 @@
 # newdoc id = cairo_sent_14
 # sent_id = 1
 # cairo_sent_id = 14
-# text = Hƿonne þenctst þu þæt þu meaht cuman ?
+# text = Hƿonne þenctst þu þæt þu meaht cuman?
 # annotator = experienced_a
 1	Hƿonne	_	_	_	_	2	advmod	_	_
 2	þenctst	_	_	_	_	0	root	_	_
@@ -14,7 +14,7 @@
 
 # sent_id = 2
 # cairo_sent_id = 14
-# text = Hƿonne þenctst þu þæt þu meaht cuman ?
+# text = Hƿonne þenctst þu þæt þu meaht cuman?
 # annotator = experienced_c
 1	Hƿonne	_	_	_	_	7	advmod	_	_
 2	þenctst	_	_	_	_	0	root	_	_
@@ -27,7 +27,7 @@
 
 # sent_id = 3
 # cairo_sent_id = 14
-# text = Hƿonne þenctst þu þæt þu meaht cuman ?
+# text = Hƿonne þenctst þu þæt þu meaht cuman?
 # annotator = novice_g
 1	Hƿonne	_	_	_	_	2	advmod	_	_
 2	þenctst	_	_	_	_	0	root	_	_

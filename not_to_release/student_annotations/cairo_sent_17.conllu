@@ -1,7 +1,7 @@
 # newdoc id = cairo_sent_17
 # sent_id = 1
 # cairo_sent_id = 17
-# text = Hit ȝebyrede þt heo dyde hire her , ac for sume ƿisan nolde seo don sƿa .
+# text = Hit ȝebyrede þt heo dyde hire her, ac for sume ƿisan nolde seo don sƿa.
 # annotator = novice_c
 1	Hit	_	_	_	_	2	expl	_	_
 2	ȝebyrede	_	_	_	_	0	root	_	_
@@ -23,7 +23,7 @@
 
 # sent_id = 2
 # cairo_sent_id = 17
-# text = Hit ȝebyrede þt heo dyde hire her , ac for sume ƿisan nolde seo don sƿa .
+# text = Hit ȝebyrede þt heo dyde hire her, ac for sume ƿisan nolde seo don sƿa.
 # annotator = novice_h
 1	Hit	_	_	_	_	2	expl	_	_
 2	ȝebyrede	_	_	_	_	0	root	_	_

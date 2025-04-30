@@ -1,7 +1,7 @@
 # newdoc id = cairo_sent_11
 # sent_id = 1
 # cairo_sent_id = 11
-# text = Ne Petrus Smiþ ne Maria Brun mihton beon ȝecorene .
+# text = Ne Petrus Smiþ ne Maria Brun mihton beon ȝecorene.
 # annotator = novice_c
 1	Ne	_	_	_	_	2	cc:preconj	_	_
 2	Petrus	_	_	_	_	9	nsubj	_	_
@@ -16,7 +16,7 @@
 
 # sent_id = 2
 # cairo_sent_id = 11
-# text = Ne Petrus Smiþ ne Maria Brun mihton beon ȝecorene .
+# text = Ne Petrus Smiþ ne Maria Brun mihton beon ȝecorene.
 # annotator = novice_f
 1	Ne	_	_	_	_	2	cc:preconj	_	_
 2	Petrus	_	_	_	_	9	nsubj:pass	_	_
@@ -31,7 +31,7 @@
 
 # sent_id = 3
 # cairo_sent_id = 11
-# text = Ne Petrus Smiþ ne Maria Brun mihton beon ȝecorene .
+# text = Ne Petrus Smiþ ne Maria Brun mihton beon ȝecorene.
 # annotator = novice_h
 1	Ne	_	_	_	_	2	cc:preconj	_	_
 2	Petrus	_	_	_	_	9	nsubj:pass	_	_

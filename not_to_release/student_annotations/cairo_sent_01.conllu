@@ -1,7 +1,7 @@
 # newdoc id = cairo_sent_01
 # sent_id = 1
 # cairo_sent_id = 1
-# text = Þæt mæden ƿrat hyre freonde ærend-ƿrit .
+# text = Þæt mæden ƿrat hyre freonde ærend-ƿrit.
 # annotator = novice_d
 1	Þæt	_	_	_	_	2	det	_	_
 2	mæden	_	_	_	_	3	nsubj	_	_
@@ -13,7 +13,7 @@
 
 # sent_id = 2
 # cairo_sent_id = 1
-# text = Þæt mæden ƿrat hyre freonde ærend-ƿrit .
+# text = Þæt mæden ƿrat hyre freonde ærend-ƿrit.
 # annotator = novice_g
 1	Þæt	_	_	_	_	2	det	_	_
 2	mæden	_	_	_	_	3	nsubj	_	_
@@ -25,7 +25,7 @@
 
 # sent_id = 3
 # cairo_sent_id = 1
-# text = Þæt mæden ƿrat hyre freonde ærend-ƿrit .
+# text = Þæt mæden ƿrat hyre freonde ærend-ƿrit.
 # annotator = novice_h
 1	Þæt	_	_	_	_	2	det	_	_
 2	mæden	_	_	_	_	3	nsubj	_	_
