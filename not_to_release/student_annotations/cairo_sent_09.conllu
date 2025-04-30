@@ -1,6 +1,7 @@
+# newdoc id = cairo_sent_09
 # sent_id = 1
 # cairo_sent_id = 9
-# text = Maria ȝeƿann ær , Petrus seolfor and Iohanna gold .
+# text = Maria ȝeƿann ær, Petrus seolfor and Iohanna gold.
 # annotator = novice_d
 1	Maria	_	_	_	_	2	nsubj	_	_
 2	ȝeƿann	_	_	_	_	0	root	_	_
@@ -15,7 +16,7 @@
 
 # sent_id = 2
 # cairo_sent_id = 9
-# text = Maria ȝeƿann ær , Petrus seolfor and Iohanna gold .
+# text = Maria ȝeƿann ær, Petrus seolfor and Iohanna gold.
 # annotator = novice_i
 1	Maria	_	_	_	_	2	nsubj	_	_
 2	ȝeƿann	_	_	_	_	0	root	_	_

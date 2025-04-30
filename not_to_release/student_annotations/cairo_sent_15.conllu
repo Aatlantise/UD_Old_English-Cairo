@@ -1,6 +1,7 @@
+# newdoc id = cairo_sent_15
 # sent_id = 1
 # cairo_sent_id = 15
-# text = He bohte cræt ac his broþor hƿeol-bearƿe .
+# text = He bohte cræt ac his broþor hƿeol-bearƿe.
 # annotator = experienced_e
 1	He	_	_	_	_	2	nsubj	_	_
 2	bohte	_	_	_	_	0	root	_	_
@@ -13,7 +14,7 @@
 
 # sent_id = 2
 # cairo_sent_id = 15
-# text = He bohte cræt ac his broþor hƿeol-bearƿe .
+# text = He bohte cræt ac his broþor hƿeol-bearƿe.
 # annotator = experienced_f
 1	He	_	_	_	_	2	nsubj	_	_
 2	bohte	_	_	_	_	0	root	_	_
@@ -26,7 +27,7 @@
 
 # sent_id = 3
 # cairo_sent_id = 15
-# text = He bohte cræt ac his broþor hƿeol-bearƿe .
+# text = He bohte cræt ac his broþor hƿeol-bearƿe.
 # annotator = novice_a
 1	He	_	_	_	_	2	nsubj	_	_
 2	bohte	_	_	_	_	0	root	_	_
@@ -39,7 +40,7 @@
 
 # sent_id = 4
 # cairo_sent_id = 15
-# text = He bohte cræt ac his broþor hƿeol-bearƿe .
+# text = He bohte cræt ac his broþor hƿeol-bearƿe.
 # annotator = novice_f
 1	He	_	_	_	_	2	nsubj	_	_
 2	bohte	_	_	_	_	0	root	_	_

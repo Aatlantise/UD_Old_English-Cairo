@@ -1,6 +1,7 @@
+# newdoc id = cairo_sent_02
 # sent_id = 1
 # cairo_sent_id = 2
-# text = Ic þence þæt hit reȝnaþ .
+# text = Ic þence þæt hit reȝnaþ.
 # annotator = experienced_b
 1	Ic	_	_	_	_	2	nsubj	_	_
 2	þence	_	_	_	_	0	root	_	_
@@ -11,7 +12,7 @@
 
 # sent_id = 2
 # cairo_sent_id = 2
-# text = Ic þence þæt hit reȝnaþ .
+# text = Ic þence þæt hit reȝnaþ.
 # annotator = experienced_d
 1	Ic	_	_	_	_	2	nsubj	_	_
 2	þence	_	_	_	_	0	root	_	_
@@ -22,7 +23,7 @@
 
 # sent_id = 3
 # cairo_sent_id = 2
-# text = Ic þence þæt hit reȝnaþ .
+# text = Ic þence þæt hit reȝnaþ.
 # annotator = novice_i
 1	Ic	_	_	_	_	2	nsubj	_	_
 2	þence	_	_	_	_	0	root	_	_

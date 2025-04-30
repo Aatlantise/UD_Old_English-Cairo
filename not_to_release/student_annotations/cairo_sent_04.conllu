@@ -1,6 +1,7 @@
+# newdoc id = cairo_sent_04
 # sent_id = 1
 # cairo_sent_id = 4
-# text = Ƿilt þu gan ?
+# text = Ƿilt þu gan?
 # annotator = experienced_c
 1	Ƿilt	_	_	_	_	3	aux	_	_
 2	þu	_	_	_	_	3	nsubj	_	_
@@ -9,7 +10,7 @@
 
 # sent_id = 2
 # cairo_sent_id = 4
-# text = Ƿilt þu gan ?
+# text = Ƿilt þu gan?
 # annotator = novice_e
 1	Ƿilt	_	_	_	_	3	aux	_	_
 2	þu	_	_	_	_	3	nsubj	_	_

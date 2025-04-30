@@ -1,6 +1,7 @@
+# newdoc id = cairo_sent_20
 # sent_id = 1
 # cairo_sent_id = 20
-# text = Heo ƿeox on Paris , þære heafod-burh Franc-landes .
+# text = Heo ƿeox on Paris, þære heafod-burh Franc-landes.
 # annotator = experienced_e
 1	Heo	_	_	_	_	2	nsubj	_	_
 2	ƿeox	_	_	_	_	0	root	_	_
@@ -14,7 +15,7 @@
 
 # sent_id = 2
 # cairo_sent_id = 20
-# text = Heo ƿeox on Paris , þære heafod-burh Franc-landes .
+# text = Heo ƿeox on Paris, þære heafod-burh Franc-landes.
 # annotator = experienced_f
 1	Heo	_	_	_	_	2	nsubj	_	_
 2	ƿeox	_	_	_	_	0	root	_	_
@@ -28,7 +29,7 @@
 
 # sent_id = 3
 # cairo_sent_id = 20
-# text = Heo ƿeox on Paris , þære heafod-burh Franc-landes .
+# text = Heo ƿeox on Paris, þære heafod-burh Franc-landes.
 # annotator = novice_a
 1	Heo	_	_	_	_	2	nsubj	_	_
 2	ƿeox	_	_	_	_	0	root	_	_
@@ -42,7 +43,7 @@
 
 # sent_id = 4
 # cairo_sent_id = 20
-# text = Heo ƿeox on Paris , þære heafod-burh Franc-landes .
+# text = Heo ƿeox on Paris, þære heafod-burh Franc-landes.
 # annotator = novice_h
 1	Heo	_	_	_	_	2	nsubj	_	_
 2	ƿeox	_	_	_	_	0	root	_	_
